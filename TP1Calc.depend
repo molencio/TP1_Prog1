@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523509415 source:c:\tp1calc\calclyb.c
+	<stdio.h>
+	<stdlib.h>
+	"CalcLyb.h"
+
+1523506688 c:\tp1calc\calclyb.h
+
+1523509495 source:c:\tp1calc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CalcLyb.h"
+
